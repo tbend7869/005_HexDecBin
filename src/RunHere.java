@@ -20,8 +20,8 @@ public class RunHere {
 			baseConverter.setHexNumber();
 			//baseConverter.convert();
 			
-			BinPower binpower = new BinPower();
-			binpower.setBinary();
+			//BinPower binpower = new BinPower();
+			//binpower.setBinary();
 		}
 
 }
